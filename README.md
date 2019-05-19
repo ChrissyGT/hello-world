@@ -1,2 +1,2 @@
 # hello-world
-first testing with GitHub - creeate a repository
+first testing with GitHub - create a repository
